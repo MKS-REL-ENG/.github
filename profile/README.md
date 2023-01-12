@@ -35,7 +35,7 @@
   >V1.0.3
   
   **Repositories**
-  New repos should ONLY be created for a new version of a project. Software and hardware revisions for a project should be contained in the same project version. If a project is exclusively hardware or exclusively software, the revisions are to be contained in the same repository unless the project is altered in a manner that changes the function of the project. 
+New repos should ONLY be created for a new version of a project. Software and hardware revisions for a project should be contained in the same project version. If a project is exclusively hardware or exclusively software, the revisions are to be contained in the same repository unless the project is altered in a manner that changes the function of the project. 
   
 ### Project Information
   The README for each project should contain the following: 
