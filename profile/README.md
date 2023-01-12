@@ -19,17 +19,20 @@
   After the title the version must be presented. 
   
   For Example: 
-  >LAB-AT-LAMBDA_CONNECTOR-V0.0.0<
+  >LAB-AT-LAMBDA_CONNECTOR-V0.0.0
   
   **Version Nomenclature**
   The version is subdivided into three sections project creation and modification MUST adhere to these rules.
   +The First Digit indicates the overall project version. A project that has undergone 4 project changes (with no hardware or software changes) would read...
-  >V4.0.0<
+  >V4.0.0
+   
    Every project should start with a 1 in the first digit unless it is an exclusive software or exclusive hardware project. In this case, the first digit would read a zero.
+  
   +The Second Digit indicates the software version. A new project that has undergone 3 major software changes (with no hardware changes) would read... 
-  >V1.3.0<
+  >V1.3.0
+  
   +The Third Digit indicates the hardware version. A new project that has undergone 3 major hardware changes (with no software changes) would read...
-  >V1.0.3<
+  >V1.0.3
   
   **Repositories**
   New repos should ONLY be created for a new version of a project. Software and hardware revisions for a project should be contained in the same project version. If a project is exclusively hardware or exclusively software, the revisions are to be contained in the same repository unless the project is altered in a manner that changes the function of the project. 
